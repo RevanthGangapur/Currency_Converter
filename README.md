@@ -65,5 +65,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Notes 📝
 - Always use UPPERCASE currency codes (e.g., USD not usd)
 - Internet connection required for live rates
-``` 
-
