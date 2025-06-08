@@ -14,9 +14,6 @@ A lightweight currency conversion tool with a graphical interface that provides 
 - ⚡ Instant conversion results
 - 📱 Responsive design
 
-## Screenshot 🖼️
-![Currency Converter GUI](screenshot.png) *(Replace with actual screenshot path)*
-
 ## Requirements 📋
 
 - Python 3.6+
@@ -27,7 +24,7 @@ A lightweight currency conversion tool with a graphical interface that provides 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Currency_Converter.git
+git clone https://github.com/RevanthGangapur/Currency_Converter.git
 cd Currency_Converter
 
 # Install dependencies
@@ -38,7 +35,7 @@ pip install currency-converter
 
 1. Run the application:
 ```bash
-python currency_converter.py
+python main.py
 ```
 
 2. Enter:
