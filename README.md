@@ -67,4 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Internet connection required for live rates
 ``` 
 
-*(Save this as README.md in your project root directory. Don't forget to add a screenshot of your application and replace placeholder links with your actual repository links.)*
